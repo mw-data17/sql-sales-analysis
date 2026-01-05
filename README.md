@@ -22,6 +22,7 @@ Funkcje Okienkowe (Window Functions): Zastosowanie DENSE_RANK() do tworzenia ran
 Optymalizacja: Implementacja indeksów na kluczach obcych w celu przyspieszenia operacji typu JOIN.
 
 📂 Struktura repozytorium
+
 schema.sql – Definicja struktury bazy danych (DDL).
 
 analysis.sql – Skrypty analityczne i raportowe (DML).
