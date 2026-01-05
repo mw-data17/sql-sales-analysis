@@ -1,6 +1,7 @@
 Sales Analysis Project (T-SQL)
 
 📌 Cel projektu
+
 Projekt symuluje procesy analityczne w systemie klasie ERP. Celem było przygotowanie struktury bazy danych oraz stworzenie zaawansowanych zapytań SQL, które odpowiadają na realne potrzeby biznesowe, takie jak analiza marżowości, rankingi sprzedaży oraz udział kategorii w obrocie.
 
 🛠 Wykorzystane technologie
